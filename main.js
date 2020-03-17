@@ -1,13 +1,3 @@
-//,console.log(Math.random()) // 0 =>1
-// console.log(Math.PI) //3.14
-// console.log(Math.E) //2.71
-// console.log(Math.round(3.49)) //3
-// console.log(Math.round(6.5))
-// console.log(Math.round(3.6)) // 4
-// console.log(Math.floor(9.99))//9
-// console.log(Math.ceil(11.0000001))//12
-// console.log(Math.trunc(43.87787687))
-// console.log(Math.abs(-34))
 
 // let d = new Date()
 // console.log(d)
@@ -31,25 +21,6 @@
 
 
 
-//Math => 1-1
-console.log(Math.PI);
-let pi = Math.PI;
-let roundPi = Math.round(pi);
-console.log(`Round PI:${roundPi}`);
-let floorPi = Math.floor(pi);
-console.log(`Floor PI:${floorPi}`);
-let ceilPi = Math.ceil(pi);
-console.log(`Ceil PI:${ceilPi}`)
-
-//Math => 1-2
-// Const PI aus früheren Übung.
-// 9.45
-// 193.4464
-// 0.8596433607	
-// 0.65149992
-// 2.1807301500
-// -2.9406290890
-// -24.45
 
 let mathObj = {
     mathfoor() {
